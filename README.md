@@ -1,1 +1,11 @@
-# sf_data_science
+# My Data Science project
+
+From the [ScillFactory Data Science course](https://scillfactory.ru/data-scientist).
+
+## Проекты
+
+* [Проект 0. Игра: Угадай число](https://github.com/Kovyljan/sf_data_science/project_0)
+* [Проект 1. _______](___)
+* [Проект 2. _______](___)
+
+## Ссылки на резюме
