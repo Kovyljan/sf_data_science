@@ -1,17 +1,17 @@
 # Проект 1. Анализ резюме из HeadHunter
 
 ## Оглавление  
-[1. Описание проекта](.README.md#Описание-проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
-[5. Результат](.README.md#Результат)    
-[6. Выводы](.README.md#Выводы) 
+[1. Описание проекта](https://github.com/Kovyljan/sf_data_science/tree/main/project_1/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/Kovyljan/sf_data_science/tree/main/project_1/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/Kovyljan/sf_data_science/tree/main/project_1/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/Kovyljan/sf_data_science/tree/main/project_1/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/Kovyljan/sf_data_science/tree/main/project_1/README.md#Результат)    
+[6. Выводы](https://github.com/Kovyljan/sf_data_science/tree/main/project_1/README.md#Выводы) 
 
 ### Описание проекта    
 Проект анализа различных резюме из HeadHunter.
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[к оглавлению](https://github.com/Kovyljan/sf_data_science/tree/main/project_1/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -40,7 +40,7 @@
 ### Краткая информация о данных
 Данные представлены в виде базы резюме, выгруженной с сайта поиска вакансий hh.ru
   
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Kovyljan/sf_data_science/tree/main/project_1/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -50,16 +50,16 @@
 - исследовать данные;
 - очистить данные.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Kovyljan/sf_data_science/tree/main/project_1/README.md#Оглавление)
 
 
 ### Результаты:  
 Все результаты смотреть в коде в markdown.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Kovyljan/sf_data_science/tree/main/project_1/README.md#Оглавление)
 
 
 ### Выводы:  
 Все выводы смотреть в коде в markdown.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Kovyljan/sf_data_science/tree/main/project_1/README.md#Оглавление)
