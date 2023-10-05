@@ -19,4 +19,4 @@ while   True:
         
     else:
         print(f"Вы угадали число! Это число = {number} за {count} попыток")
-        break # конец игры и выход
+        break # конец игры и выходgit --version
